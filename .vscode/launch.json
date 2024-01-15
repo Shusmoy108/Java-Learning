@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "variable",
+      "request": "launch",
+      "mainClass": "variable",
+      "projectName": "Java-Learning_c2cefd37"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "Java-Learning_c2cefd37"
+    },
+    {}
+  ]
+}
